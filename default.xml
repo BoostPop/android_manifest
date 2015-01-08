@@ -39,6 +39,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/google/atv" name="device/google/atv" groups="device,fugu" />
   <project path="device/lge/hammerhead" name="android_device_lge_hammerhead" groups="device,hammerhead" remote="BoostPop" revision="lollipop" />
+  <project path="device/lge/mako" name="android_device_lge_mako" groups="device,mako" remote="BoostPop" revision="lollipop" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
@@ -469,6 +470,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/lge/hammerhead" name="proprietary_vendor_lge_hammerhead" remote="BoostPop" revision="lollipop" />
+  <project path="vendor/lge/mako" name="proprietary_vendor_lge_mako" remote="BoostPop" revision="lollipop" />
   <project path="vendor/boostpop" name="android_vendor_boostpop" remote="BoostPop" revision="lollipop" />
 
 </manifest>
