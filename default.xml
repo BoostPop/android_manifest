@@ -383,6 +383,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+  <project path="vendor/sm" name="android_sm" remote="BoostPop" revision="lollipop" />  
   <project path="vendor/boostpop" name="android_vendor_boostpop" remote="BoostPop" revision="lollipop" />
 
 </manifest>
